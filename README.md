@@ -2,7 +2,7 @@
 
 ### Java Software Developer · Full-Stack Developer · SaaS Builder
 
-<div style="color: #24292f; font-weight: 600;">
+<div style="color: #24292f; font-weight: 800;">
 
 I'm a **Java-focused Software Developer** with a strong interest in backend engineering and full-stack application development.
 
