@@ -2,7 +2,6 @@
 
 ### Java Software Developer · Full-Stack Developer · SaaS Builder
 
-<br/>
 
 I'm a **Java-focused Software Developer** with a strong interest in backend engineering and full-stack application development.
 
@@ -129,28 +128,6 @@ The platform focuses on making wholesale product discovery and supplier connecti
 **Security:** JWT · Refresh Tokens · OAuth2 · Google OAuth2 · Firebase Authentication · Role-Based Access Control
 
 StockLinker is my main project where I apply my knowledge of **backend engineering, full-stack development, databases, security, API design, and SaaS architecture** to a real-world product.
-
-
-## 📂 Other Projects
-
-### 🔐 Diary Application
-
-A secure full-stack diary management application focused on **privacy, authentication, and secure data handling**.
-
-**Technology:** React.js · Java · Spring Boot · MongoDB · JWT · Refresh Tokens · Tailwind CSS · AES Encryption · BCrypt · REST APIs
-
-#### Key Features
-
-* 🔐 JWT Authentication & Refresh Tokens
-* 🛡️ Role-Based Security
-* 🔒 AES Encryption for sensitive data
-* 🔑 BCrypt Password Hashing
-* 📝 Diary creation and management
-* 📁 Folder organization
-* 🗄️ Archive and recovery
-* 🔎 Advanced search
-* ⚡ RESTful APIs
-* 📱 Responsive React interface
 
 🌐 **Live Demo:** [Private Diary](https://privatediary.netlify.app/)
 
