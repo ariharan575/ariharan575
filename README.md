@@ -2,15 +2,19 @@
 
 ### Java Software Developer · Full-Stack Developer · SaaS Builder
 
-> I'm a Java-focused Software Developer with a strong interest in backend engineering and full-stack application development.
->
-> - 🚀 Building **[StockLinker](#)** — a B2B SaaS platform connecting Shopkeepers, Wholesalers & Distributors
-> - 💻 Focused on **Java, Spring Boot, Spring Security, REST APIs, React & Database Development**
-> - 🧠 Passionate about **Backend Engineering, Problem Solving, System Design & Application Security**
-> - 📚 Currently pursuing **MCA** and strengthening my skills in **DSA, System Design, Security & Software Architecture**
-> - 🎯 My goal is to become a confident **Full-Stack Software Engineer** and build scalable, secure & meaningful SaaS products
-> - 🔍 I enjoy understanding how systems work internally, solving problems through code, and continuously improving my development skills
-> - 💡 **Ask me about:** Java, Spring Boot, REST APIs, Spring Security, React, Databases, Full-Stack Development & SaaS Development
+<div style="color: #24292f; font-weight: 600;">
+
+I'm a **Java-focused Software Developer** with a strong interest in backend engineering and full-stack application development.
+
+- 🚀 Building **[StockLinker](#)** — a B2B SaaS platform connecting **Shopkeepers, Wholesalers & Distributors**
+- 💻 Focused on **Java, Spring Boot, Spring Security, REST APIs, React & Database Development**
+- 🧠 Passionate about **Backend Engineering, Problem Solving, System Design & Application Security**
+- 📚 Currently pursuing **MCA** and strengthening my skills in **DSA, System Design, Security & Software Architecture**
+- 🎯 My goal is to become a confident **Full-Stack Software Engineer** and build **scalable, secure & meaningful SaaS products**
+- 🔍 I enjoy understanding **how systems work internally**, solving problems through code, and continuously improving my development skills
+- 💡 **Ask me about:** Java, Spring Boot, REST APIs, Spring Security, React, Databases, Full-Stack Development & SaaS Development
+
+</div>
 
 ## 🤝 Connect With Me
 
