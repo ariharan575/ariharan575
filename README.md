@@ -1,18 +1,28 @@
-# Hi 👋 I'm Ariharan
+# Hi There!👋 I'm Ariharan
 
 ### Java Software Developer · Full-Stack Developer · SaaS Builder
 
+<p style="font-size:16px; line-height:1.8; color:#57606A;">
+I'm a <strong style="color:#111827; font-weight:600;">Java-focused Software Developer</strong>
+with a strong interest in <strong style="color:#111827; font-weight:600;">backend engineering</strong>
+and <strong style="color:#111827; font-weight:600;">full-stack application development</strong>.
+</p>
 
-I'm a **Java-focused Software Developer** with a strong interest in backend engineering and full-stack application development.
+<ul style="line-height:1.9; color:#57606A;">
+  <li>🚀 Building <a href="https://github.com/ariharan575" style="color:#0969DA; font-weight:600;">StockLinker</a> — a B2B SaaS platform connecting Shopkeepers, Wholesalers &amp; Distributors</li>
 
-- 🚀 Building **[StockLinker](#)** — a B2B SaaS platform connecting Shopkeepers, Wholesalers & Distributors
-- 💻 Focused on **Java, Spring Boot, Spring Security, REST APIs, React & Database Development**
-- 🧠 Passionate about **Backend Engineering, Problem Solving, System Design & Application Security**
-- 📚 Currently pursuing **MCA** and strengthening my skills in **DSA, System Design, Security & Software Architecture**
-- 🎯 My goal is to become a confident **Full-Stack Software Engineer** and build scalable, secure & meaningful SaaS products
-- 🔍 I enjoy understanding how systems work internally, solving problems through code, and continuously improving my development skills
-- 💡 **Ask me about:** Java, Spring Boot, REST APIs, Spring Security, React, Databases, Full-Stack Development & SaaS Development
+  <li>💻 Focused on <span style="color:#111827; font-weight:600;">Java, Spring Boot, Spring Security, REST APIs, React &amp; Database Development</span></li>
 
+  <li>🧠 Passionate about <span style="color:#111827; font-weight:600;">Backend Engineering, Problem Solving, System Design &amp; Application Security</span></li>
+
+  <li>📚 Currently pursuing <span style="color:#111827; font-weight:600;">MCA</span> and strengthening my skills in DSA, System Design, Security &amp; Software Architecture</li>
+
+  <li>🎯 My goal is to become a confident <span style="color:#111827; font-weight:600;">Full-Stack Software Engineer</span> and build scalable, secure &amp; meaningful SaaS products</li>
+
+  <li>🔍 I enjoy understanding how systems work internally, solving problems through code, and continuously improving my development skills</li>
+
+  <li>💡 <span style="color:#111827; font-weight:600;">Ask me about:</span> Java, Spring Boot, REST APIs, Spring Security, React, Databases, Full-Stack Development &amp; SaaS Development</li>
+</ul>
 
 ## 🤝 Connect With Me
 
