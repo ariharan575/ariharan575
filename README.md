@@ -28,7 +28,7 @@ I'm a **Java-focused Software Developer** with a strong interest in backend engi
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ariharan_dev/vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
